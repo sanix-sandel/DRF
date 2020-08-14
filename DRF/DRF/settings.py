@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     'rest_framework',
     'quickstart',
+    'snippets.apps.SnippetsConfig',
 ]
 
 REST_FRAMEWORK={
